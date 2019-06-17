@@ -9,7 +9,7 @@
 2、使用vue ui命令就可以呼唤出vue的图形化界面，可以直接在页面上操控项目的配置。
 
 
-[线上预览地址](http://note.youdao.com/)
+[线上预览地址](http://www.lolint.com/vue-cli3.0-vueAdmin/dist/#/home)
 
 由于项目还在完善中.....许多需要修正改进的地方还在编写
 
