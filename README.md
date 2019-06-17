@@ -1,6 +1,6 @@
 # vue-cli3.0-vueadmin
 
-技术栈主要使用vue-cli3.0+vue+elementUI+vuex+axios
+技术栈主要使用vue-cli3.0+vue+webpack+elementUI+vuex+axios
 
 基于vue-cli3.0为基础进行的开发，所以同比vue-cli2会有区别：  
 
